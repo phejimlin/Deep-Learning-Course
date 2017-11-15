@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 Milestone2/data/
+Milestone2/runs/
